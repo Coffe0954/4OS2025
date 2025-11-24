@@ -11,9 +11,9 @@ export LD_LIBRARY_PATH=.:$LD_LIBRARY_PATH
 
 # запуск
 ./program1
-# или
 ./program2
 
 <img width="789" height="1104" alt="image" src="https://github.com/user-attachments/assets/ca8c0c1f-706c-49d2-a6e7-b95821d60e60" />
 <img width="732" height="364" alt="image" src="https://github.com/user-attachments/assets/d1dd34bd-aade-4a28-a318-05c8102e8d99" />
+
 
